@@ -4,6 +4,7 @@
 </div>
 ✨URFU student✨
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Science+UrFU">
 <h3>типа умею(нет!):</h3>
 <div> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
