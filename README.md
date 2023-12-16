@@ -1,9 +1,8 @@
 
 <div id="header" align-"center">
-<h1>Hi there, I'm Yona</h1> <h3>social network:</h3>
+<h1>Hi there, I'm Yona</h1> 
+  <h3>social network:</h3>
 </div>
-
-
   <div id="badges">
     <a href="https://t.me/wyoonnaa" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
@@ -19,7 +18,7 @@
     </a>
   </div>
 
-## типа умею (нет!)
+<h3>типа умею(нет!):</h3>
 <div> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
     <img src="https://skillicons.dev/icons?i=js"/>
