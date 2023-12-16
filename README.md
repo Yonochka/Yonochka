@@ -7,6 +7,8 @@
    - 💻 I'm learning python, js, java, swift etc  
 
 [![N|Solid](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![N|Solid](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![N|Solid](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <h3>can(no)</h3>
 <div id="can">
  
