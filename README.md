@@ -5,7 +5,7 @@ Hi there, I'm Yona ✨URFU student✨
 <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">-->
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU">
 <h3>can(no)</h3>
-<div> 
+<div id="can"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
     <img src="https://skillicons.dev/icons?i=js"/>
   </a>
@@ -30,7 +30,7 @@ Hi there, I'm Yona ✨URFU student✨
     <a href="https://www.instagram.com/wyoonnaa?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </a>
-  </div>
+</div>
 
 <!--
 **Yonochka/Yonochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
