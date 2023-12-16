@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=js"/>
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java"/>
+    <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" title="Java"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python"/>
