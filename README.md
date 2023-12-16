@@ -1,9 +1,7 @@
-
 <div id="header" align-"center">
 <h1>About</h1> 
 </div>
-Hi there, I'm Yona
-✨URFU student✨
+Hi there, I'm Yona ✨URFU student✨
 <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">-->
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU">
 
@@ -21,7 +19,7 @@ Hi there, I'm Yona
 </div>
 
 <div id="badges">
-    <h3>social network:</h3>
+    <h3>social network</h3>
     <a href="https://t.me/wyoonnaa" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
