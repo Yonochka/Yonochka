@@ -34,9 +34,10 @@ Hi there, I'm Yona ✨URFU student✨
 
 <div id="stat" >
 <h1>Stat</h1> 
- <img src="[https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=nord_dark)">
+ </div>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=nord_dark)
 
-</div>
+
 
 <!--
 **Yonochka/Yonochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
