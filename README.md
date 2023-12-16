@@ -6,9 +6,10 @@
    - 📚 I study at ✨UrFU✨
    - 💻 I'm learning python, js, java, swift etc  
 
-
+[![N|Solid](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <h3>can(no)</h3>
 <div id="can">
+ 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
     <img src="https://skillicons.dev/icons?i=js"/>
   </a>       
