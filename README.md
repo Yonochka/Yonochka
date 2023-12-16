@@ -9,10 +9,10 @@
   
 
 <a href="https://www.instagram.com/wyoonnaa?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr">
-<img src="https://img.shields.io/badge/vk-blue?style=social&logo=%230077FF" alt="instagram" /> </a>
+<img src="https://img.shields.io/badge/vk-blue?style=social&logo=%E4405F" alt="instagram" /> </a>
   
 <a href="https://t.me/+79920115865">
-<img src="https://img.shields.io/badge/vk-blue?style=social&logo=%230077FF" alt="telegram" /> </a>
+<img src="https://img.shields.io/badge/vk-blue?style=social&logo=%26A5E4" alt="telegram" /> </a>
 </div>
 
 
