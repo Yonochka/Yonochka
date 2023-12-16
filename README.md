@@ -30,9 +30,13 @@ Hi there, I'm Yona ✨URFU student✨
     </a>
 </div>
 
-<div id="stat" ><h1>Stat</h1> </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=nord_dark)
+‹div id-"stat" align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=nord_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yonochka&theme=nord_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yonochka&theme=nord_dark"/>
+</div>
+
 
 
 
