@@ -11,7 +11,7 @@
     <a href="https://vk.com/akoloverina" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://discord.com/users/TanyashaVoron#1942" target="_blank">
+    <a href="https://discord.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </a> 
     <a href="https://www.instagram.com/wyoonnaa?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
@@ -25,10 +25,10 @@
     <img src="https://skillicons.dev/icons?i=js"/>
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img style="margin: 1px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java"/>
+    <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 1px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python"/>
+    <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python"/>
   </a>  
 
 </div>
