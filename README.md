@@ -34,7 +34,8 @@ Hi there, I'm Yona ✨URFU student✨
 
 <div id="stat" >
 <h1>Stat</h1> 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=nord_dark)
+ <img src="[https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=nord_dark)">
+
 </div>
 
 <!--
