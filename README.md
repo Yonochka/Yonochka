@@ -2,7 +2,6 @@
 <div id="header" align-"center">
 <h1>Hi there, I'm Yona</h1> <h3>URFU student</h3>
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 <div id-"socials" align="center">
 <a href="https://vk.com/akoloverina">
@@ -16,7 +15,34 @@
 <img src="https://img.shields.io/badge/telegram-blue?style=social&logo=%26A5E4" alt="telegram" /> </a>
 </div>
 
+##  🛠  Technologies
 
+<div>  
+  <a href="https://www.java.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img style="margin: 10px" src="https://i.pinimg.com/originals/1d/7d/f7/1d7df727726b366323c7aea8cb1ee390.png" alt="Spring" height="50" title="SpringFramework" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python" />
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="Kotlin">
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="Hibernate">
+    <img src="https://skillicons.dev/icons?i=hibernate" />
+  </a>
+</div>
 
 <!--
 **Yonochka/Yonochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
