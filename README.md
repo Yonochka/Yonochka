@@ -3,7 +3,7 @@
 <h1>Hi there, I'm Yona</h1> 
 </div>
 ✨URFU student✨
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 <h3>типа умею(нет!):</h3>
 <div> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
