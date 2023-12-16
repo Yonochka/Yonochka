@@ -2,10 +2,9 @@
 Hi there, I'm Yona ✨URFU student✨
 <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">-->
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU">
-  - 📚 I'm studying now 
-  - 💻 I'm learning python, js, java, swift etc
-  - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+    - 📚 I'm studying now  
+    - 💻 I'm learning python, js, java, swift etc
+
 
 <h3>can(no)</h3>
 <div id="can"> 
@@ -49,7 +48,7 @@ Hi there, I'm Yona ✨URFU student✨
 **Yonochka/Yonochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+    
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
