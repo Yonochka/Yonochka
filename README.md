@@ -1,9 +1,9 @@
 <div id="header" align-"center"> <h1>About</h1>  </div>
-Hi there, I'm Yona ✨URFU student✨
-<!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">-->
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU">
+ <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">-->
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU">  
 
-   - 📚 I'm studying now  
+   Hi there, I'm Yona  
+   - 📚 I study at ✨UrFU✨
    - 💻 I'm learning python, js, java, swift etc  
 
 
