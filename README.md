@@ -5,17 +5,16 @@
 
 <div id-"socials" align="center">
 <a href="https://vk.com/akoloverina">
-<img src="[https://img.shields.io/badge/vk-blue?style=for-the-
-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/vk-blue?style=social&logo=%230077FF&logoColor=hex
-)" alt="instagram" /> </a>
+<img src="https://img.shields.io/badge/vk-blue?style=social&logo=%230077FF" alt="vk" /> </a>
   
-<a href="https://vk.com/akoloverina">
+
+<a href="https://www.instagram.com/wyoonnaa?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr">
 <img src="https://img.shields.io/badge/instagram-blue?style=for-the-
 badge&logo=linkedin&logoColor=white" alt="instagram" /> </a>
   
-<a href="https://vk.com/akoloverina">
+<a href="https://t.me/+79920115865">
 <img src="https://img.shields.io/badge/instagram-blue?style=for-the-
-badge&logo=linkedin&logoColor=white" alt="instagram" /> </a>
+badge&logo=linkedin&logoColor=white" alt="telegram" /> </a>
 </div>
 
 
