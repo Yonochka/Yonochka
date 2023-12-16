@@ -1,6 +1,4 @@
-<div id="header" align-"center">
-<h1>About</h1> 
-</div>
+<div id="header" align-"center"> <h1>About</h1>  </div>
 Hi there, I'm Yona ✨URFU student✨
 <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">-->
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU">
@@ -32,10 +30,9 @@ Hi there, I'm Yona ✨URFU student✨
     </a>
 </div>
 
-<div id="stat" >
-<h1>Stat</h1> 
- </div>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=nord_dark)
+<div id="stat" ><h1>Stat</h1> </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=nord_dark)
 
 
 
