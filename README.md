@@ -7,9 +7,9 @@
    - 💻 I'm learning python, js, java, swift etc  
 
 
-[![N|Solid](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![N|Solid](https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg)](https://www.java.com/)
-[![N|Solid](https://profilinator.rishav.dev/skills-assets/python-original.svg)](https://www.python.org/)
+[![N|Solid](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) {width=40px height=400px})
+[![N|Solid](https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg)](https://www.java.com/) {width=40px height=400px})
+[![N|Solid](https://profilinator.rishav.dev/skills-assets/python-original.svg)](https://www.python.org/) {width=40px height=400px})
 
 
 <div id="badges">
