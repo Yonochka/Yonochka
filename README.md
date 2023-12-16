@@ -6,7 +6,7 @@
    - 📚 I study at ✨UrFU✨
    - 💻 I'm learning python, js, java, swift etc  
 
-<h3>can(no)</h3>
+
 [![N|Solid](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![N|Solid](https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg)](https://www.java.com/)
 [![N|Solid](https://profilinator.rishav.dev/skills-assets/python-original.svg)](https://www.python.org/)
