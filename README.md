@@ -2,8 +2,8 @@
 Hi there, I'm Yona ✨URFU student✨
 <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">-->
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU">
-- 📚 I'm studying now ...
-- 💻 I'm learning python, js, java, swift etc
+- 📚 I'm studying now 
+  - 💻 I'm learning python, js, java, swift etc
 <h3>can(no)</h3>
 <div id="can"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
