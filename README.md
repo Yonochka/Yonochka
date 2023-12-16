@@ -2,7 +2,21 @@
 <div id="header" align-"center">
 <h1>Hi there, I'm Yona</h1> 
 </div>
-URFU student
+✨URFU student✨
+
+<h3>типа умею(нет!):</h3>
+<div> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
+    <img src="https://skillicons.dev/icons?i=js"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python"/>
+  </a>  
+</div>
+
 
   <div id="badges">
     <h3>social network:</h3>
@@ -19,20 +33,6 @@ URFU student
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </a>
   </div>
-
-<h3>типа умею(нет!):</h3>
-<div> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
-    <img src="https://skillicons.dev/icons?i=js"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" title="Java"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python"/>
-  </a>  
-
-</div>
 
 <!--
 **Yonochka/Yonochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
