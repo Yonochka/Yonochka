@@ -1,5 +1,6 @@
 <div id="header" align-"center"> <h1>About</h1>  </div>
  <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">-->
+ 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU">  
 
    Hi there, I'm Yona  
