@@ -6,6 +6,7 @@ Hi there, I'm Yona ✨URFU student✨
   - 💻 I'm learning python, js, java, swift etc
   - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
 <h3>can(no)</h3>
 <div id="can"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
