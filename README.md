@@ -6,10 +6,12 @@
    - 📚 I study at ✨UrFU✨
    - 💻 I'm learning python, js, java, swift etc  
 
-
-[![N|Solid](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript {width=40px height=400px})
-[![N|Solid](https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg)](https://www.java.com/ {width=40px height=400px})
-[![N|Solid](https://profilinator.rishav.dev/skills-assets/python-original.svg)](https://www.python.org/ {width=40px height=400px})
+<h3>can(no)</h3>
+	<div id="can">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
+  <img src="https://skillicons.dev/icons?i=js"/></a>                      	      
+ <a href="https://www.java.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" title="Java"/>	</a>
+  <a href="https://www.python.org/" target="_blank">	<a href="https://www.python.org/" target="_blank"></div>
 
 
 <div id="badges">
