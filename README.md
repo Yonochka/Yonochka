@@ -14,7 +14,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python"/></a>
 <a href="https://isocpp.org" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="с++" height="50 title="c++"/></a>
 <a href="https://www.adobe.com" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="adobe" height="50 title="adobe"/></a>
-<a href="https://www.swift.com" target="_blank"><img style="margin: 1px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2560px-Swift_logo.svg.png" alt="swift" height="70 title="swift"/></a>
+<a href="https://www.swift.com" target="_blank"><img style="margin: 1px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2560px-Swift_logo.svg.png" alt="swift" height="50 title="swift"/></a>
 </div>
 
 
