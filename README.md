@@ -4,7 +4,6 @@
 Hi there, I'm Yona ✨URFU student✨
 <!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">-->
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Security+UrFU">
-
 <h3>can(no)</h3>
 <div> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
@@ -17,7 +16,6 @@ Hi there, I'm Yona ✨URFU student✨
     <img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python"/>
   </a>  
 </div>
-
 <div id="badges">
     <h3>social network</h3>
     <a href="https://t.me/wyoonnaa" target="_blank">
