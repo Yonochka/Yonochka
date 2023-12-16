@@ -9,11 +9,10 @@
 
 <h3>can(no)</h3>
 	<div id="can">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
-  <img src="https://skillicons.dev/icons?i=js"/></a>                      	      
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script"><img src="https://skillicons.dev/icons?i=js"/></a>                      	      
  <a href="https://www.java.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" title="Java"/></a>
-  <a href="https://www.python.org/" target="_blank"><a href="https://www.python.org/" target="_blank"></a></div>
-
+<a href="https://www.python.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python"/></a>
+</div>
 
 <div id="badges">
     <h3>social network</h3>
