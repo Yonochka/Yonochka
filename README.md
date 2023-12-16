@@ -19,10 +19,10 @@
 
 <div id="badges">
     <h3>social network</h3>
-    <a href="https://t.me/wyoonnaa" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" /></a>
-    <a href="https://vk.com/akoloverina" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/></a>
-    <a href="https://discord.com/wyoonnaa" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-    <a href="https://www.instagram.com/wyoonnaa?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+    <a href="https://t.me/wyoonnaa" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="telegram" /></a>
+    <a href="https://vk.com/akoloverina" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="50" height="50" alt="VK Badge"/></a>
+    <a href="https://discord.com/wyoonnaa" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="50" /></a> 
+    <a href="https://www.instagram.com/wyoonnaa?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a>
 </div>
 
 <div id="header" align-"center"> <h1>Stat</h1> </div>
