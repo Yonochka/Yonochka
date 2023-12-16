@@ -13,7 +13,7 @@
  <a href="https://www.java.com/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" title="Java"/></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50 title="Python"/></a>
 <a href="https://isocpp.org" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="с++" height="50 title="c++"/></a>
-<a href="https://www.swift.com" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="swift" height="50 title="swift"/></a>
+<a href="https://www.swift.com" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="swift" height="100 title="swift"/></a>
 <a href="https://www.adobe.com" target="_blank"><img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="adobe" height="50 title="adobe"/></a>
 </div>
 
