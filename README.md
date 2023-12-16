@@ -32,9 +32,9 @@ Hi there, I'm Yona ✨URFU student✨
     </a>
 </div>
 
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=dark)
+  
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=transparent)
 
 <!--
 **Yonochka/Yonochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
