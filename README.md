@@ -5,7 +5,7 @@
 
 
   <div id="badges">
-    <a href="https://t.me/+7992011" target="_blank">
+    <a href="https://t.me/wyoonnaa" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://vk.com/akoloverina" target="_blank">
