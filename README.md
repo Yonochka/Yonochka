@@ -31,8 +31,9 @@ Hi there, I'm Yona ✨URFU student✨
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </a>
 </div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?
-username=yonochka=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yonochka&theme=default)
+
 <!--
 **Yonochka/Yonochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
