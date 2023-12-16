@@ -2,6 +2,7 @@
 <div id="header" align-"center">
 <h1>Hi there, I'm Yona</h1> <h3>URFU student</h3>
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 <div id-"socials" align="center">
 <a href="https://vk.com/akoloverina">
